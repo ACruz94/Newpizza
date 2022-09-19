@@ -1,0 +1,2 @@
+# Newpizza
+Thinkful Practice assesment
